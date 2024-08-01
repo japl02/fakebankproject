@@ -184,7 +184,7 @@ sections:
         style: secondary
         type: Button
       - label: See Tutorials
-        url: /
+        url: 'https://www.youtube.com/watch?v=3PR4TzHVoeY&ab_channel=SAMTIME'
         showIcon: true
         icon: arrowRight
         iconPosition: right
