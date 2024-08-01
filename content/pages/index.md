@@ -156,7 +156,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/1199291.jpg
+      url: /images/istock-1125085319-2-2000x1335.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
