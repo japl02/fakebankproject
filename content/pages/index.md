@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       The Nakamurabank and Assurance assure you that you'll well receive 100$
-      for free
+      for free if you sign for us
     text: ''
     actions:
       - label: Get started
