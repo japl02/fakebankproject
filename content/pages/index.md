@@ -65,7 +65,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://www.youtube.com/shorts/NRMERMykF8s?feature=share'
         showIcon: false
         icon: arrowRight
         iconPosition: right
