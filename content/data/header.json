@@ -51,6 +51,16 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
+                    "altText": "Facebook",
+                    "url": "/",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "House assurance",
                     "url": "/",
                     "icon": "arrowRight",
