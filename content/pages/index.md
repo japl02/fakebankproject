@@ -58,7 +58,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Go with us and we will assure you that you will have 10% of performance
+    subtitle: >-
+      Go with us and we will assure you that you will have 10% of performance in
+      your placement
     items:
       - type: FeaturedItem
         title: 500k
