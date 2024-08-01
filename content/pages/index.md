@@ -178,7 +178,7 @@ sections:
       businesses.
     actions:
       - label: Get started
-        url: /
+        url: 'https://www.youtube.com/watch?v=3PR4TzHVoeY&ab_channel=SAMTIME'
         icon: arrowRight
         iconPosition: right
         style: secondary
