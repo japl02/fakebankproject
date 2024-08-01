@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Go with us and we will assure you that you will have 10% of
     items:
       - type: FeaturedItem
         title: 500k
